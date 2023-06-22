@@ -1,5 +1,7 @@
 # INTERNSHIP-PROJECT-OF-SPROCKET-CENTRAL-PTY-LTD-WITH-PYTHON-AND-POWER-BI
 
+https://app.powerbi.com/groups/me/reports/18eca513-6deb-485b-993a-d35349698831/ReportSection?experience=power-bi
+
 Hello connections,
 
 I recently completed a virtual internship at KPMG, provided by Insidesherpa, where I worked with Sprocket Central Pty Ltd. My main task was to analyze their customer and transaction data to optimize their marketing strategy.
